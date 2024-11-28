@@ -26,7 +26,7 @@ colorama
 comm
 contourpy
 cryptography
-cycler==0.12.2
+cycler
 debugpy
 decorator
 defusedxml
