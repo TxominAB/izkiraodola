@@ -36,7 +36,7 @@ fastjsonschema
 fastremap
 filelock
 flatbuffers
-fonttools==4.55.1
+fonttools
 frozenlist
 fsspec==2024.10.1
 gast
