@@ -33,7 +33,7 @@ defusedxml
 exceptiongroup
 executing
 fastjsonschema
-fastremap==1.15.1
+fastremap
 filelock==3.16.2
 flatbuffers
 fonttools==4.55.1
