@@ -13,7 +13,7 @@ cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
-conda==24.0
+conda==24.2.1
 conda-libmamba-solver==24.7.0
 conda-package-handling==2.3.0
 conda_package_streaming==0.10.0
