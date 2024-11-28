@@ -34,7 +34,7 @@ exceptiongroup
 executing
 fastjsonschema
 fastremap
-filelock==3.16.2
+filelock
 flatbuffers
 fonttools==4.55.1
 frozenlist
