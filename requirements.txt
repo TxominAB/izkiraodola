@@ -22,8 +22,8 @@ cryptography==43.0.0
 cycler==0.12.1
 distro==1.9.0
 filelock==3.13.1
-firebase-admin==6.5.0
-firebase-auth==3.0.28
+#firebase-admin==6.5.0
+#firebase-auth==3.0.28
 flatbuffers==24.3.25
 fonttools==4.53.1
 frozendict==2.4.2
